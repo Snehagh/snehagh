@@ -1,8 +1,10 @@
+
+
+# Hi, I'm Sneha 👋
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Engineer;Medical+Imaging+Researcher;3D+CNN+Developer&center=true&width=500&height=50">
 </p>
-
-# Hi, I'm Sneha 👋
 
 ## 🧠 ML Engineer | Medical Imaging Research | 3D CNN | Multimodal Learning
 
