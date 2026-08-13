@@ -8,7 +8,7 @@
 
 I'm a Software Engineer with an **M.S. in Computer Science from Penn State**, focused on building reliable backend systems and production-oriented AI applications.
 
-My work spans **Python backend development, REST APIs, cloud infrastructure, data/ML pipelines, and LLM-powered systems**. I enjoy taking systems end-to-end — from architecture and data processing through implementation, testing, deployment, and monitoring.
+My work spans **Python backend development, REST APIs, cloud infrastructure, data/ML pipelines, and LLM-powered systems**. I enjoy taking systems end-to-end, from architecture and data processing through implementation, testing, deployment, and monitoring.
 
 I'm particularly interested in **backend engineering, applied AI, AI agents, and scalable intelligent systems**.
 
