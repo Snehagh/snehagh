@@ -1,70 +1,77 @@
 # Hi, I'm Sneha 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=ML+Engineer;Medical+Imaging+Researcher;3D+CNN+Developer;Multimodal+Learning+Enthusiast&center=true&width=600&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+%26+Applied+AI;AI+Agents+%26+RAG;Python+%7C+AWS+%7C+FastAPI&center=true&width=600&height=50">
 </p>
 
-## 🧠 ML Engineer | Medical Imaging & Multimodal AI
+## 💻 Software Engineer | Backend & Applied AI
 
-I am a Machine Learning Engineer specializing in medical imaging and multimodal deep learning systems.  
-My work focuses on designing 3D convolutional neural networks, integrating structured clinical features with imaging data, and building reproducible research pipelines in PyTorch.
+I'm a Software Engineer with an **M.S. in Computer Science from Penn State**, focused on building reliable backend systems and production-oriented AI applications.
 
-I’m particularly interested in developing AI systems that bridge imaging data and real-world clinical variables to support better diagnostic and prognostic decision-making.
+My work spans **Python backend development, REST APIs, cloud infrastructure, data/ML pipelines, and LLM-powered systems**. I enjoy taking systems end-to-end — from architecture and data processing through implementation, testing, deployment, and monitoring.
 
----
-
-## 🔬 Current Research & Projects
-
-- 🫁 **Lung Nodule Malignancy Prediction (LIDC-IDRI)**  
-  Building 3D CNN architectures for volumetric CT scans with structured feature fusion.
-
-- 🧠 **Multimodal MRI Analysis (ADNI)**  
-  Combining neuroimaging data with clinical metadata using late-fusion models.
-
-- 🔗 **Feature Fusion Architectures**  
-  Exploring multimodal representation learning for improved generalization.
-
-- 📊 **Reproducible ML Pipelines**  
-  Structured training, validation, evaluation, and experiment tracking workflows.
+I'm particularly interested in **backend engineering, applied AI, AI agents, and scalable intelligent systems**.
 
 ---
 
----
+## 🚀 Featured Projects
 
-## 🚀 Technical Stack
+### 🤖 Agentic Career Copilot
+End-to-end AI application combining **multi-agent orchestration, RAG, and backend services** using LangGraph, ChromaDB, FastAPI, and Docker.
 
-### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+- Built multi-agent workflows for specialized task execution and orchestration
+- Implemented RAG using ChromaDB and sentence-transformer embeddings
+- Exposed functionality through FastAPI REST endpoints
+- Containerized with Docker and added automated testing and CI/CD
 
-### 🤖 Machine Learning & Deep Learning
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+🔗 [View Repository](https://github.com/Snehagh/agentic-career-copilot)
 
-### 📊 Data Processing & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+### 🧠 Multimodal Lung Nodule Malignancy Prediction
+Built a multimodal deep-learning system combining **3D CT imaging and structured clinical features**.
 
-### ⚙️ Tools & Environment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+- Developed a late-fusion 3D ResNet-18 + MLP architecture
+- Achieved **0.9747 AUC, 0.9419 F1, and 96.22% accuracy**
+- Applied Grad-CAM for model interpretability
+- Built reproducible PyTorch training and evaluation pipelines
 
----
+### ☁️ Automated Biomedical ETL & Data Quality Pipeline
+Designed a scalable data-processing and validation pipeline using **Python, SQL, and AWS**.
 
-## 🎯 Research Interests
-- Multimodal Learning & Representation Fusion  
-- 3D Deep Learning for Medical Imaging  
-- Clinical AI & Decision Support Systems  
-- Model Evaluation & Robustness  
-- MLOps & Deployment of ML Systems  
+- Processed multi-source biomedical datasets
+- Automated preprocessing, validation, and quality checks
+- Prevented data leakage through structured validation workflows
+- Reduced data preparation time by **60%**
 
 ---
 
-## 📫 Connect With Me
-LinkedIn: https://www.linkedin.com/in/sneha-ghosh08/
-Email: snehaghoshus2024@gmail.com
+## 🛠️ Technical Stack
+
+**Languages**  
+Python • C++ • Java • TypeScript • SQL • Bash
+
+**Backend & APIs**  
+FastAPI • REST APIs • Async Workflows • Data Pipelines
+
+**AI & ML**  
+PyTorch • TensorFlow • Scikit-Learn • Hugging Face • LangChain • LangGraph • RAG • LLMs
+
+**Cloud & Infrastructure**  
+AWS • Docker • Kubernetes • Terraform • GitHub Actions • CI/CD
+
+**Data**  
+SQL • Pandas • NumPy • ETL/ELT • ChromaDB • Vector Search
+
+---
+
+## 🔭 What I'm Building
+
+I'm currently exploring **production-grade agentic AI systems**, including multi-agent orchestration, retrieval, tool use, evaluation, and reliable backend infrastructure for AI applications.
+
+I also continue to work on multimodal machine learning research involving medical imaging and structured clinical data.
+
+---
+
+## 📫 Connect
+
+- [LinkedIn](https://linkedin.com/in/sneha-ghosh08)
+- [GitHub](https://github.com/Snehagh)
