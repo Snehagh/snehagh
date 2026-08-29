@@ -1,9 +1,4 @@
 # Hi, I'm Sneha 👋
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Backend+%26+Applied+AI;AI+Agents+%26+RAG;Python+%7C+AWS+%7C+FastAPI&center=true&width=600&height=50">
-</p>
-
 ## 💻 Software Engineer | Backend & Applied AI
 
 I'm a Software Engineer with an **M.S. in Computer Science from Penn State**, focused on building reliable backend systems and production-oriented AI applications.
