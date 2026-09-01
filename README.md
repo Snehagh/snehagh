@@ -15,7 +15,7 @@ I'm particularly interested in **backend engineering, applied AI, AI agents, and
 
 ### ⚙️ Distributed Task Queue & Scheduler
 A job-processing service built on **Redis primitives** with a FastAPI control plane.
-- Priority queues + a worker pool with reliable, atomic job claiming 
+- Priority queues + a worker pool with reliable, atomic job claiming
 - Exponential-backoff retries, a dead-letter queue, and crash recovery
 - PostgreSQL job-status tracking; Docker Compose, GitHub Actions CI, full pytest suite
 
