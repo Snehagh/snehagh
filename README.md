@@ -13,7 +13,7 @@ I'm particularly interested in **backend engineering, applied AI, AI agents, and
 
 ## Featured Projects
 
-### ⚙️ Distributed Task Queue & Scheduler 
+### ⚙️ Distributed Task Queue & Scheduler
 A job-processing service built on **Redis primitives** with a FastAPI control plane.
 - Priority queues + a worker pool with reliable, atomic job claiming
 - Exponential-backoff retries, a dead-letter queue, and crash recovery
