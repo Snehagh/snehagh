@@ -8,7 +8,7 @@ My work spans **Python backend development, REST APIs, cloud infrastructure, dat
 I'm particularly interested in **backend engineering, applied AI, AI agents, and scalable intelligent systems**. 
 
 🔗 **Portfolio:** https://snehagh.github.io/Snehagh-Portfolio/
-
+ 
 ---
 
 ## Featured Projects
